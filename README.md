@@ -1,13 +1,13 @@
 
-````bash
+
 > Info -- 
 > JavaScript/Frontend dev from Croatia. Big fan of vanilla coding. 
 > Currently oriented on React/React Native.
-> Knowledge of NextJS, PHP, WordPress, VueJS, BackboneJS, C++ and Java (this two a little bit less :smile: )
+> Knowledge of NextJS, PHP, WordPress, VueJS, BackboneJS, C++ and Java (this two a little bit less :) )
 > Gym Addict 
 > Engineering degree @ [Tehničko veleučilište u Zagrebu](www.tvz.hr)
 
-````
+
 
 ````bash
  const someOfTheProjects = {
