@@ -71,7 +71,7 @@
 ````bash
 > help --contact
 > linkedin: marko-arthofer => https://www.linkedin.com/in/marko-arthofer-63565715b/
-> instagram: @markoarhofer => https://www.instagram.com/markoarthofer/
+> instagram: @markoarthofer => https://www.instagram.com/markoarthofer/
 > github: markoarthofer22 => https://github.com/markoarthofer22/
 > mailto: markoarthofer95 [at] gmail.com
 ````
