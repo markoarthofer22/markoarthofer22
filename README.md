@@ -73,6 +73,7 @@
 > linkedin: marko-arthofer => https://www.linkedin.com/in/marko-arthofer-63565715b/
 > instagram: @markoarthofer => https://www.instagram.com/markoarthofer/
 > github: markoarthofer22 => https://github.com/markoarthofer22/
+> europass_cv => https://drive.google.com/file/d/1vuNhq9yCmZMvDOwoZTMSVDyRH9qj7Xnh/view?usp=sharing
 > mailto: markoarthofer95 [at] gmail.com
 ````
 
