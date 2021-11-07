@@ -1,4 +1,5 @@
 
+<a href="https://app.daily.dev/marthofer"><img src="https://api.daily.dev/devcards/58e009ea0ef74770b6aa1811c71a3505.png?r=wnu" width="400" alt="Marko Arthofer's Dev Card"/></a>
 
 ### Info =>
 - JavaScript/Frontend dev from Croatia. Big fan of vanilla coding. 
