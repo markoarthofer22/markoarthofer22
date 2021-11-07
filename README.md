@@ -1,5 +1,7 @@
   <div align="left">
-    <a href="https://app.daily.dev/marthofer"><img src="https://api.daily.dev/devcards/58e009ea0ef74770b6aa1811c71a3505.png?r=wnu" width="400" alt="Marko Arthofer's Dev Card"/></a>
+    <a href="https://app.daily.dev/marthofer">
+      <img src="https://github.com/markoarthofer22/markoarthofer22/blob/main/devcard.svg" 
+          width="400" alt="Marko Arthofer's Dev Card"/></a>
     <br />
     <br />
   </div>
